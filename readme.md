@@ -22,11 +22,19 @@
 <h2 dir="auto"></h2>
   
   
-<div> 
-  <a href="https://www.youtube.com/channel/UC31UJAoOQzg7-bK7a_HF8fg/featured" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/i_cafe.maia/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ayrton-maia-404489228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div target="_blank"> 
+  <a href="https://www.youtube.com/channel/UC31UJAoOQzg7-bK7a_HF8fg/featured" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+  </a>
+  
+  <a href="https://www.instagram.com/i_cafe.maia/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/ayrton-maia-404489228/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+</div>  
   
   ![Snake animation](https://github.com/AyrtonMaia0/AyrtonMaia0/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+
