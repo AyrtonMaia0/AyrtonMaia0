@@ -11,14 +11,21 @@
 
 <br>
 
-<div align="center">
+<div align="center" dri="auto">
   <a href="https://github.com/AyrtonMaia0">
-  <img height="180em" width="" src="https://github-readme-stats.vercel.app/api?username=AyrtonMaia0&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyrtonMaia0&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=AyrtonMaia0&show_icons=true&theme=radical&include_all_commits=true&count_private=true" style="max-width: 100%;"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyrtonMaia0&layout=compact&langs_count=7&theme=radical" style="max-width: 100%;"/>
 </div>
 <rect xmlns="http://www.w3.org/2000/svg" data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" stroke="#e4e2e2" width="494" fill="#141321" stroke-opacity="1"/>
 
-##
+<!--
+
+ <img height="180em" width="48%" src="https://camo.githubusercontent.com/770fc44……655f616…" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Karolayne-silva&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true" style="max-width: 100%;">
+
+
+ <img height="180em" width="48%" src="https://camo.githubusercontent.com/fede7e2……6f6d706…" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karolayne-silva&layout=compact&langs_count=7&theme=ocean_dark" style="max-width: 100%;">
+ -->
+
 
 <div> 
   <a href="https://www.youtube.com/channel/UC31UJAoOQzg7-bK7a_HF8fg/featured" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
