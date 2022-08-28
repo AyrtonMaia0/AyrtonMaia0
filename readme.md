@@ -17,9 +17,9 @@
 <br>
 <div align="center" dri="auto">
 <a href="https://github.com/AyrtonMaia0">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyrtonMaia0&layout=compact&langs_count=7&theme=aura" style="max-width: 100%;"/>
-  
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=AyrtonMaia0&show_icons=true&theme=aura&include_all_commits=true&count_private=true" style="max-width: 100%;"/>
+
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyrtonMaia0&layout=compact&langs_count=7&theme=aura" style="max-width: 100%;"/>
 </a>
 </div>
 <rect xmlns="http://www.w3.org/2000/svg" data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" stroke="#e4e2e2" width="494" fill="#141321" stroke-opacity="1"/>
