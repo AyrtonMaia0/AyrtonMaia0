@@ -2,7 +2,7 @@
 
 - 🔭 Estou Cursando ADS 2/5
 - 🌱 Estudando FrontEnd e querendo aprender as linguagens: Python, Java e Kotlin (até o momento kk)
-- 🔮 Gosto de jogos lógicos e também jogar com os amigos
+- 🔮 Gosto de desafios lógicos e de jogar com os amigos
 - 📫 Contato: ayrton.maia0@gmail.com
 
 
