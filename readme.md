@@ -1,8 +1,8 @@
 ## Olá, eu me chamo Ayrton Maia 👽
 
 - 🔭 Estou Cursando ADS 2/5
-- 🌱 Estudando FrontEnd e querendo aprender as linguagens: Python, Java e Kotlin (até o momento kk)
-- 🔮 Gosto de desafios lógicos e de jogar com os amigos
+- 🌱 Estudando FrontEnd (HTML5 & CSS3) e as linguagens: SQL, JavaScript e Python
+- 🔮 Gosto de desafios lógicos & de jogar e conversar com os amigos
 - 📫 Contato: ayrton.maia0@gmail.com
 
 
@@ -12,6 +12,7 @@
   <img align="center" alt="Ayrton-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ayrton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ayrton-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Ayrton-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
 
 
