@@ -1,7 +1,7 @@
 ## Olá, eu me chamo Ayrton Maia 👽
 
 - 🔭 Estou Cursando ADS 2/5
-- 🌱 Estudando FrontEnd (HTML5 & CSS3) e as linguagens: SQL, JavaScript e Python
+- 🌱 Estudando FrontEnd (HTML5 & CSS3) e as linguagens: MySQL, JavaScript e Python
 - 🔮 Gosto de desafios lógicos & de jogar e conversar com os amigos
 - 📫 Contato: ayrton.maia0@gmail.com
 
