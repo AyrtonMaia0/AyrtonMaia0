@@ -1,8 +1,8 @@
 ## Olá, eu me chamo Ayrton Maia 👽
 
 - 🔭 Estou Cursando ADS 2/5
-- 🌱 Estudando FrontEnd (HTML5 & CSS3) e as linguagens: MySQL, JavaScript e Python
-- 🔮 Gosto de desafios lógicos & de jogar e conversar com os amigos
+- 🌱 Estudando as Linguagens: HTML5 & CSS3, JavaScript, MySQL, Python e Arduino
+- 🔮 Gosto de desafios lógicos, jogar e conversar com os amigos
 - 📫 Contato: ayrton.maia0@gmail.com
 
 
@@ -13,6 +13,8 @@
   <img align="center" alt="Ayrton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ayrton-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Ayrton-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Ayrton-ARDUINO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
+  <img align="center" alt="Ayrton-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
 
