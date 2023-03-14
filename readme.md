@@ -1,7 +1,7 @@
 ## Olá, eu me chamo Ayrton Maia 👽
 
 - 🔭 Estou Cursando ADS 3/5
-- 🌱 Estudando as Linguagens: HTML5 & CSS3, JavaScript, MySQL, Python e Arduino
+- 🌱 Atualmente Estudando as Linguagens: JavaScript, Java e MySQL
 - 🔮 Gosto de filmes enigmáticos, jogar, conversar, me divertir com os amigos
 - 📫 Contato: ayrton.maia0@gmail.com
 
