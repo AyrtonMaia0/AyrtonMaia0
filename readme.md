@@ -7,7 +7,7 @@
 
 
 <!--icones-->
-<h2 dir="auto"></h2>
+<h5 style="color: #9b07f7;" dir="auto">Linguagens que já tive contato</h5>
 <div style="display: inline_block">
   <img align="center" alt="Ayrton-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ayrton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -17,13 +17,20 @@
   <img align="center" alt="Ayrton-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Ayrton-PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ayrton-FIGMA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-
+  <img align="center" alt="Ayrton-PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <!--img align="center" alt="Ayrton-PYTHONANYWHERE" height="30" width="40" src=""-->
-
-<!--src="https://png2.cleanpng.com/sh/b6e0cee4c120b2bd32ce584cd0451ed1/L0KzQYm3VsE4N5ptkZH0aYP2gLBuTgB6fJl0htN3eYfrdcPsTfRraZ9sh59CZXKweLF6lPlvb154feRBaXPoPbjwlPh2al46eqQBZkO8QYjpV8g4PV85SaoBMkO6QoK8UskzP2o4T6kAMEW7PsH1h5==/kisspng-pythonanywhere-django-web-hosting-service-github-5b26f3917b7875.4186237215292793775058.png"
--->
-
 </div>
+
+
+<!--APRENDENDO-->
+<h5 style="color: #9b07f7;" dir="auto">Linguagens que estou estudando no momento</h5>
+<div style="display: inline_block">
+  <img align="center" alt="Ayrton-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Ayrton-REACTNATIVE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Ayrton-POSTGRESQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Ayrton-PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+
 
 
 <!--informacoes-->
