@@ -1,21 +1,21 @@
-## Olá, eu me chamo Ayrton Maia 👽
+## Olá, me chamo Ayrton Maia☕
 
-- 🔭 Estou Cursando ADS 3/5
-- 🌱 Atualmente Estudando as Linguagens: JavaScript, Java e MySQL
-- 🔮 Gosto de filmes enigmáticos, jogar, conversar, me divertir com os amigos
+- 🔭 Cursando ADS 3/5
+- 🌱 Atualmente Estudando: JavaScript, ReactNative e MongoDB
+- 🔮 Gosto de filmes enigmáticos. Adoro jogar, conversar e me divertir com os amigos
 - 📫 Contato: ayrton.maia0@gmail.com
 
 
 <!--icones-->
-<h5 style="color: #9b07f7;" dir="auto">Linguagens que já tive contato</h5>
+<h5 style="color: #9b07f7;" dir="auto">Já tive contato</h5>
 <div style="display: inline_block">
   <img align="center" alt="Ayrton-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ayrton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ayrton-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Ayrton-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Ayrton-PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Ayrton-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Ayrton-ARDUINO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
   <img align="center" alt="Ayrton-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Ayrton-PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ayrton-FIGMA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Ayrton-PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <!--img align="center" alt="Ayrton-PYTHONANYWHERE" height="30" width="40" src=""-->
@@ -23,12 +23,13 @@
 
 
 <!--APRENDENDO-->
-<h5 style="color: #9b07f7;" dir="auto">Linguagens que estou estudando no momento</h5>
+<h5 style="color: #9b07f7;" dir="auto">Estudando no momento</h5>
 <div style="display: inline_block">
   <img align="center" alt="Ayrton-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Ayrton-REACTNATIVE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Ayrton-POSTGRESQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Ayrton-PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Ayrton-EXPO" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/expo_logo_icon_145293.png">
+  <img align="center" alt="Ayrton-MONGODB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <!--<img align="center" alt="Ayrton-PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">-->
 </div>
 
 
