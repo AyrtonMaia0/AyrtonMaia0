@@ -1,7 +1,8 @@
 ## Olá, me chamo Ayrton Maia☕
 
-- 🔭 Cursando ADS 3/5
-- 🌱 Atualmente Estudando: JavaScript, ReactNative e MongoDB
+- 🔭 Cursando ADS 4/5
+- 🌱 Atualmente Estudando: JavaScript
+- 🖥️ Vontade de Aprender mais sobre IA & Machine Learning
 - 🔮 Gosto de filmes enigmáticos. Adoro jogar, conversar e me divertir com os amigos
 - 📫 Contato: ayrton.maia0@gmail.com
 
@@ -18,6 +19,9 @@
   <img align="center" alt="Ayrton-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Ayrton-FIGMA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Ayrton-PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Ayrton-REACTNATIVE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Ayrton-EXPO" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/expo_logo_icon_145293.png">
+  <img align="center" alt="Ayrton-MONGODB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <!--img align="center" alt="Ayrton-PYTHONANYWHERE" height="30" width="40" src=""-->
 </div>
 
@@ -26,9 +30,7 @@
 <h5 style="color: #9b07f7;" dir="auto">Estudando no momento</h5>
 <div style="display: inline_block">
   <img align="center" alt="Ayrton-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Ayrton-REACTNATIVE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Ayrton-EXPO" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/expo_logo_icon_145293.png">
-  <img align="center" alt="Ayrton-MONGODB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+
   <!--<img align="center" alt="Ayrton-PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">-->
 </div>
 
