@@ -1,9 +1,9 @@
 ## Olá, me chamo Ayrton Maia☕
 
 - 🔭 Cursando ADS 4/5
-- 🌱 Atualmente Estudando: JavaScript
-- 🖥️ Vontade de Aprender mais sobre IA & Machine Learning
-- 🔮 Gosto de filmes enigmáticos. Adoro jogar, conversar e me divertir com os amigos
+- 🌱 Atualmente Estudando: JavaScript e Python para Machine Learning
+- 🖥️ Sou curioso pelo mundo da Inteligência Artificial & Machine Learning
+- 🔮 Gosto assistir filmes enigmáticos e em momentos de descanso, adoro me divertir com meus amigos em uma gameplay conversando.
 - 📫 Contato: ayrton.maia0@gmail.com
 
 
@@ -31,6 +31,7 @@
 <!--APRENDENDO-->
 <h5 style="color: #9b07f7;" dir="auto">Estudando no momento</h5>
 <div style="display: inline_block">
+  <img align="center" alt="Ayrton-PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ayrton-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Ayrton-NODEJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Ayrton-MONGODB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
@@ -70,6 +71,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 </div>  
-  
-  ![Snake animation](https://github.com/AyrtonMaia0/AyrtonMaia0/blob/output/github-contribution-grid-snake.svg)
 
+<!-- Snake
+  ![Snake animation](https://github.com/AyrtonMaia0/AyrtonMaia0/blob/output/github-contribution-grid-snake.svg)
+-->
