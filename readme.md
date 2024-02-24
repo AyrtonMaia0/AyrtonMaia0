@@ -1,7 +1,7 @@
 ## Olá, me chamo Ayrton Maia☕
 
-- 🔭 Cursando ADS 4/5
-- 🌱 Atualmente Estudando: JavaScript e Python para Machine Learning
+- 🔭 Cursando ADS 5/5
+- 🌱 Atualmente Estudando: JavaScript
 - 🖥️ Sou curioso pelo mundo da Inteligência Artificial & Machine Learning
 - 🔮 Gosto assistir filmes enigmáticos e em momentos de descanso, adoro me divertir com meus amigos em uma gameplay conversando.
 - 📫 Contato: ayrton.maia0@gmail.com
@@ -31,10 +31,10 @@
 <!--APRENDENDO-->
 <h5 style="color: #9b07f7;" dir="auto">Estudando no momento</h5>
 <div style="display: inline_block">
-  <img align="center" alt="Ayrton-PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <!-- <img align="center" alt="Ayrton-PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
   <img align="center" alt="Ayrton-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Ayrton-NODEJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Ayrton-MONGODB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <!-- <img align="center" alt="Ayrton-NODEJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> -->
+  <!-- <img align="center" alt="Ayrton-MONGODB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> -->
   <img align="center" alt="Ayrton-SERVICENOW" height="30" width="30" src="https://play-lh.googleusercontent.com/g8nI6jurubf_E4JDNNCHP1c9BHO5ezieUs-HF5IZ0d4G0k6FKC0elsUBfIwPCsXk0w2Y">
 
   <!--<img align="center" alt="Ayrton-PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">-->
