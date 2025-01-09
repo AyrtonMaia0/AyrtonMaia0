@@ -26,6 +26,7 @@
   <img align="center" alt="Ayrton-MONGODB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Ayrton-NODEJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Ayrton-SERVICENOW" height="30" width="30" src="https://play-lh.googleusercontent.com/g8nI6jurubf_E4JDNNCHP1c9BHO5ezieUs-HF5IZ0d4G0k6FKC0elsUBfIwPCsXk0w2Y">
+  <img align="center" alt="Ayrton-ANGULARJS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <!--img align="center" alt="Ayrton-PYTHONANYWHERE" height="30" width="40" src=""-->
 </div>
 
