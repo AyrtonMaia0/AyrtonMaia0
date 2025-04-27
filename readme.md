@@ -74,6 +74,8 @@
   </a> 
 </div>  
 
-<!-- Snake
-  ![Snake animation](https://github.com/AyrtonMaia0/AyrtonMaia0/blob/output/github-contribution-grid-snake.svg)
+<!-- Snake-->
+  ![Snake animation](https://github.com/SaraLopes7/SaraLopes7/blob/output/github-contribution-grid-snake-colorful.svg)  
+<!--
+![Snake animation](https://github.com/AyrtonMaia0/AyrtonMaia0/blob/output/github-contribution-grid-snake.svg)
 -->
