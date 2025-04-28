@@ -2,9 +2,9 @@
 
 - 📚 Pós | MBA Data Science and Artificial Intelligence
 - 🎓 System Analyst and Developer ADS 5/5
-- 🌱 Atualmente Estudando: JavaScript, Python & ServiceNow
+- 🌱 Currently Studying: JavaScript, Python & ServiceNow
 - 🖥️ Sou curioso pelo mundo da Inteligência Artificial & Machine Learning
-- 🔮 Gosto assistir filmes enigmáticos e em momentos de descanso, adoro me divertir com meus amigos em uma gameplay conversando.
+- 🔮 Gosto assistir filmes enigmáticos e em momentos de descanso, adoro me divertir com meus amigos em uma gameplay
 - 📫 Contato: ayrton.maia0@gmail.com
 - 🔭 Algo que sempre digo é "Sempre em busca de conhecimento, pois nunca é demais. É sempre bom aprender algo novo!"
 
