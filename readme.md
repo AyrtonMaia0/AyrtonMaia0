@@ -75,7 +75,8 @@
 </div>  
 
 <!-- Snake-->
-  ![Snake animation](https://github.com/AyrtonMaia0/AyrtonMaia0/blob/output/github-contribution-grid-snake-colorful.svg)  
+  ![snake gif](https://github.com/AyrtonMaia0/AyrtonMaia0/blob/output/github-snake-dark.svg)
 <!--
-![Snake animation](https://github.com/AyrtonMaia0/AyrtonMaia0/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/AyrtonMaia0/AyrtonMaia0/blob/output/github-contribution-grid-snake-colorful.svg)  
+  ![Snake animation](https://github.com/AyrtonMaia0/AyrtonMaia0/blob/output/github-contribution-grid-snake.svg)
 -->
